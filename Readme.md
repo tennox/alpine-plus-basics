@@ -1,3 +1,5 @@
+# [MOVED to GitLab](https://gitlab.com/TeNNoX/docker-alpine-basics) (in part for fancy auto-updating CI)
+
 # Alpine image with a few basics:
 
 ## Updated with latest versions automatically every week
